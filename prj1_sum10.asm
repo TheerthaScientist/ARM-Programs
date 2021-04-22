@@ -1,3 +1,11 @@
+;/*==============================================================================================*/
+;/*	Application : Keil uVision                                                                   */
+;/*	Developer	: THEERTHA                                                                       */
+;/*	College		: Government Engineering College, Chamarajanagara                                */
+;/*	Copy Rights	: GNU public license															 */
+;/*	Git Hub link: https://github.com/TheerthaScientist/ARM-Programs                              */
+;/*==============================================================================================*/
+
 	;alp to find sum of ten integers
 	AREA RESET,DATA,READONLY
 	AREA PROGRAM1,CODE

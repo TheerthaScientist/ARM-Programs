@@ -1,4 +1,12 @@
-;alp to find product of ten integers
+'/*==============================================================================================*/
+/*	Application : Keil uVision                                                                   */
+/*	Developer	: THEERTHA                                                                       */
+/*	College		: Government Engineering College, Chamarajanagara                                */
+/*	Copy Rights	: GNU public license															 */
+/*	Git Hub link: https://github.com/TheerthaScientist/ARM-Programs                              */
+/*===============================================================================================*/
+
+;alp to find product of ten integers'
 	AREA	product,CODE,READONLY
 	EXPORT mult10
  ENTRY

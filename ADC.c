@@ -3,7 +3,7 @@
 /*	Developer	: THEERTHA                                                                       */
 /*	College		: Government Engineering College, Chamarajanagara                                */
 /*	Copy Rights	: GNU public license															 */
-/*	Git Hub link:                                                                                */
+/*	Git Hub link: https://github.com/TheerthaScientist/ARM-Programs                              */
 /*===============================================================================================*/
 //program to run DC Motor with variable speed (USING PWM)
 
